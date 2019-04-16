@@ -1,0 +1,3 @@
+knime://knime.workflow/data.all
+file:/Users/cankozan/Data%20Science%20Projects/CS447_Data_Science/Knime%20Based/iris.data
+/Users/cankozan/Data Science Projects/CS447_Data_Science/Knime Based/iris.data
