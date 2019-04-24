@@ -7,7 +7,7 @@
 </config>
 <config key="model">
 <entry key="predictionColumnName" type="xstring" value="Prediction ()"/>
-<entry key="changePredictionColumnName" type="xboolean" value="true"/>
+<entry key="changePredictionColumnName" type="xboolean" value="false"/>
 <entry key="appendPredictionConfidence" type="xboolean" value="true"/>
 <entry key="appendClassConfidences" type="xboolean" value="false"/>
 <entry key="appendModelCount" type="xboolean" value="false"/>
@@ -35,12 +35,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 1528, Cols: 22"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 1136, Cols: 22"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="964ffc07-fe0f-49f3-8b39-e11427d54c21"/>
+<entry key="file_store_id" type="xstring" value="d53f0695-787c-471f-b91f-353964637219"/>
 </config>
 </config>

@@ -9,8 +9,8 @@
 <entry key="targetColumn" type="xstring" value="LeagueIndex"/>
 <entry key="seed" type="xstring" value="1555423441655"/>
 <entry key="maxLevels" type="xint" value="-1"/>
-<entry key="minNodeSize" type="xint" value="-1"/>
-<entry key="minChildSize" type="xint" value="-1"/>
+<entry key="minNodeSize" type="xint" value="2"/>
+<entry key="minChildSize" type="xint" value="1"/>
 <entry key="dataFraction" type="xdouble" value="1.0"/>
 <entry key="isDataSelectionWithReplacement" type="xboolean" value="true"/>
 <entry key="hardCodedRootColumn" type="xstring" isnull="true" value=""/>
@@ -19,7 +19,7 @@
 <entry key="columnAbsolutePerTree" type="xint" value="10"/>
 <entry key="isUseDifferentAttributesAtEachNode" type="xboolean" value="true"/>
 <entry key="nrModels" type="xint" value="100"/>
-<entry key="splitCriterion" type="xstring" value="InformationGainRatio"/>
+<entry key="splitCriterion" type="xstring" value="Gini"/>
 <entry key="missingValueHandling" type="xstring" value="XGBoost"/>
 <entry key="useAverageSplitPoints" type="xboolean" value="true"/>
 <entry key="useBinaryNominalSplits" type="xboolean" value="true"/>
@@ -27,29 +27,29 @@
 <config key="columnFilterConfig">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="3"/>
-<entry key="0" type="xstring" value="Age"/>
-<entry key="1" type="xstring" value="HoursPerWeek"/>
-<entry key="2" type="xstring" value="APM"/>
-</config>
-<config key="excluded_names">
-<entry key="array-size" type="xint" value="16"/>
-<entry key="0" type="xstring" value="TotalHours"/>
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="APM"/>
 <entry key="1" type="xstring" value="SelectByHotkeys"/>
 <entry key="2" type="xstring" value="AssignToHotkeys"/>
+<entry key="3" type="xstring" value="NumberOfPACs"/>
+<entry key="4" type="xstring" value="GapBetweenPACs"/>
+<entry key="5" type="xstring" value="ActionLatency"/>
+<entry key="6" type="xstring" value="ActionsInPAC"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="12"/>
+<entry key="0" type="xstring" value="Age"/>
+<entry key="1" type="xstring" value="HoursPerWeek"/>
+<entry key="2" type="xstring" value="TotalHours"/>
 <entry key="3" type="xstring" value="UniqueHotkeys"/>
 <entry key="4" type="xstring" value="MinimapAttacks"/>
 <entry key="5" type="xstring" value="MinimapRightClicks"/>
-<entry key="6" type="xstring" value="NumberOfPACs"/>
-<entry key="7" type="xstring" value="GapBetweenPACs"/>
-<entry key="8" type="xstring" value="ActionLatency"/>
-<entry key="9" type="xstring" value="ActionsInPAC"/>
-<entry key="10" type="xstring" value="TotalMapExplored"/>
-<entry key="11" type="xstring" value="WorkersMade"/>
-<entry key="12" type="xstring" value="UniqueUnitsMade"/>
-<entry key="13" type="xstring" value="ComplexUnitsMade"/>
-<entry key="14" type="xstring" value="ComplexAbilityUsed"/>
-<entry key="15" type="xstring" value="MaxTimeStamp"/>
+<entry key="6" type="xstring" value="TotalMapExplored"/>
+<entry key="7" type="xstring" value="WorkersMade"/>
+<entry key="8" type="xstring" value="UniqueUnitsMade"/>
+<entry key="9" type="xstring" value="ComplexUnitsMade"/>
+<entry key="10" type="xstring" value="ComplexAbilityUsed"/>
+<entry key="11" type="xstring" value="MaxTimeStamp"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
@@ -94,21 +94,21 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 1867, Cols: 31"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 2204, Cols: 30"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 6"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 7, Cols: 6"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 <config key="port_3">
 <entry key="index" type="xint" value="3"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.base.node.mine.treeensemble2.model.TreeEnsembleModelPortObjectSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.base.node.mine.treeensemble2.model.TreeEnsembleModelPortObject"/>
-<entry key="port_object_summary" type="xstring" value="100 classifiers on 3 attributes"/>
+<entry key="port_object_summary" type="xstring" value="100 classifiers on 7 attributes"/>
 <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
 <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
 <entry key="port_dir_location" type="xstring" value="port_3"/>
@@ -126,6 +126,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" value="filestore"/>
-<entry key="file_store_id" type="xstring" value="8a3b14d0-f9b4-4c9a-870b-e51d1c545f48"/>
+<entry key="file_store_id" type="xstring" value="6b74369d-2aa9-4e7e-a543-51ad1def1a36"/>
 </config>
 </config>
