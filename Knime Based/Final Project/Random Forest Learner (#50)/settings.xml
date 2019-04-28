@@ -80,11 +80,11 @@
 <entry key="node-bundle-name" type="xstring" value="Decisions Tree Ensembles for KNIME"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base.treeensembles2"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.7.0.v201811231518"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.7.1.v201901291053"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Random Forest Learner"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -126,6 +126,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" value="filestore"/>
-<entry key="file_store_id" type="xstring" value="2cea811f-866e-4fc9-ab89-efb10f5322ea"/>
+<entry key="file_store_id" type="xstring" value="719cb276-d1aa-4645-b6e5-190e59b53a20"/>
 </config>
 </config>

@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="DataURL" type="xstring" value="file:/Users/cankozan/Data%20Science%20Projects/CS447_Data_Science/Knime%20Based/Final%20Project/starcraft.csv"/>
+<entry key="DataURL" type="xstring" value="file:/D:/Projects/CS447_Data_Science/Knime%20Based/Final%20Project/starcraft.csv"/>
 <config key="Delimiters">
 <config key="Delim0">
 <entry key="pattern" type="xstring" value="%%00010"/>
@@ -323,11 +323,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.7.1.v201901291053"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.7.1.v201901291053"/>
+<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="File Reader"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -343,6 +343,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c640db26-d032-4770-80b5-5bcb4fe302f9"/>
+<entry key="file_store_id" type="xstring" value="cdcb3207-11ef-44a2-9c97-1a429e854cf9"/>
 </config>
 </config>
