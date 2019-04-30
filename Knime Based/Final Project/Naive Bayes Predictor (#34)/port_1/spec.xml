@@ -28,7 +28,7 @@
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Gold(2)"/>
+<entry key="StringCell" type="xstring" value="Gold(3)"/>
 </config>
 </config>
 <config key="3">
@@ -529,7 +529,7 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Silver(2)"/>
+<entry key="StringCell" type="xstring" value="Gold(3)"/>
 </config>
 </config>
 <config key="1">
@@ -541,7 +541,7 @@
 <config key="2">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Gold(2)"/>
+<entry key="StringCell" type="xstring" value="Platinum(4)"/>
 </config>
 </config>
 <config key="3">
@@ -553,13 +553,13 @@
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Platinum(4)"/>
+<entry key="StringCell" type="xstring" value="Diamond(5)"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="Diamond(5)"/>
+<entry key="StringCell" type="xstring" value="Silver(2)"/>
 </config>
 </config>
 <config key="6">

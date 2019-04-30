@@ -12,7 +12,7 @@
 <entry key="newColName" type="xstring" value="Enter column name"/>
 <entry key="pattern" type="xstring" value="3"/>
 <entry key="replaceAllOccurences" type="xboolean" value="false"/>
-<entry key="replacement" type="xstring" value="Gold(2)"/>
+<entry key="replacement" type="xstring" value="Gold(3)"/>
 <entry key="enableEscaping" type="xboolean" value="false"/>
 <entry key="patternIsRegex" type="xboolean" value="false"/>
 </config>
@@ -23,11 +23,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.1.v201901291053"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
+<entry key="node-feature-version" type="xstring" value="3.7.1.v201901291053"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="String Replacer"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -43,6 +43,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="fe61dc6f-9360-4a3f-8588-9f85d70fc347"/>
+<entry key="file_store_id" type="xstring" value="20973450-81ae-441a-9887-964bec380662"/>
 </config>
 </config>

@@ -82,11 +82,11 @@
 <entry key="node-bundle-name" type="xstring" value="Decisions Tree Ensembles for KNIME"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base.treeensembles2"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="3.7.2.v201904170949"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.0.v201811231518"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="3.7.2.v201904171038"/>
+<entry key="node-feature-version" type="xstring" value="3.7.1.v201901291053"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Gradient Boosted Trees Learner"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -104,6 +104,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="053176e7-d341-40ad-b750-17136f17eced"/>
+<entry key="file_store_id" type="xstring" value="561af104-a263-4775-a85f-2c6ad56151aa"/>
 </config>
 </config>
