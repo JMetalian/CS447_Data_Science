@@ -19,27 +19,27 @@
 <entry key="numberOfMissingValues" type="xint" value="0"/>
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
-<entry key="totalNoOfRecords" type="xlong" value="2204"/>
+<entry key="totalNoOfRecords" type="xlong" value="2203"/>
 <entry key="maxNoOfClassValues" type="xlong" value="20"/>
 <config key="classValues">
 <entry key="array-size" type="xint" value="7"/>
 <entry key="0" type="xstring" value="Diamond(5)"/>
-<entry key="1" type="xstring" value="Platinum(4)"/>
-<entry key="2" type="xstring" value="Gold(3)"/>
+<entry key="1" type="xstring" value="Gold(3)"/>
+<entry key="2" type="xstring" value="Silver(2)"/>
 <entry key="3" type="xstring" value="Bronze(1)"/>
 <entry key="4" type="xstring" value="Grandmaster(7)"/>
-<entry key="5" type="xstring" value="Master(6)"/>
-<entry key="6" type="xstring" value="Silver(2)"/>
+<entry key="5" type="xstring" value="Platinum(4)"/>
+<entry key="6" type="xstring" value="Master(6)"/>
 </config>
 <config key="classRecordCounter">
 <entry key="array-size" type="xint" value="7"/>
-<entry key="0" type="xlong" value="531"/>
-<entry key="1" type="xlong" value="522"/>
-<entry key="2" type="xlong" value="355"/>
-<entry key="3" type="xlong" value="115"/>
-<entry key="4" type="xlong" value="25"/>
-<entry key="5" type="xlong" value="436"/>
-<entry key="6" type="xlong" value="220"/>
+<entry key="0" type="xlong" value="547"/>
+<entry key="1" type="xlong" value="361"/>
+<entry key="2" type="xlong" value="218"/>
+<entry key="3" type="xlong" value="104"/>
+<entry key="4" type="xlong" value="26"/>
+<entry key="5" type="xlong" value="538"/>
+<entry key="6" type="xlong" value="409"/>
 </config>
 </config>
 </config>
@@ -54,51 +54,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="20.736238532110058"/>
-<entry key="sd" type="xdouble" value="3.0545490594791156"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="20.59168704156478"/>
+<entry key="sd" type="xdouble" value="3.057781673789362"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="21.921455938697324"/>
-<entry key="sd" type="xdouble" value="4.118163431079421"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="22.089219330855006"/>
+<entry key="sd" type="xdouble" value="4.250472089481563"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="21.400000000000002"/>
-<entry key="sd" type="xdouble" value="2.661453237111885"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="21.076923076923077"/>
+<entry key="sd" type="xdouble" value="2.8694679217315096"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="22.11818181818182"/>
-<entry key="sd" type="xdouble" value="4.828060707478905"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="22.041284403669717"/>
+<entry key="sd" type="xdouble" value="5.302216057168784"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="21.378531073446336"/>
-<entry key="sd" type="xdouble" value="3.6115420984324125"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="21.44241316270566"/>
+<entry key="sd" type="xdouble" value="3.5920486095819095"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="21.887323943661983"/>
-<entry key="sd" type="xdouble" value="4.684839401689541"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="22.265927977839343"/>
+<entry key="sd" type="xdouble" value="4.8512515321442296"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="22.852173913043462"/>
-<entry key="sd" type="xdouble" value="5.677353408400337"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="22.48076923076923"/>
+<entry key="sd" type="xdouble" value="4.875101730042909"/>
 </config>
 </config>
 </config>
@@ -106,58 +106,58 @@
 <entry key="attributeName" type="xstring" value="HoursPerWeek"/>
 <entry key="type" type="xstring" value="NumericalModel"/>
 <entry key="skipMissingVals" type="xboolean" value="true"/>
-<entry key="numberOfMissingValues" type="xint" value="1"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
 <entry key="noOfClasses" type="xlong" value="7"/>
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="21.22018348623855"/>
-<entry key="sd" type="xdouble" value="13.432407405297372"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="20.70415647921759"/>
+<entry key="sd" type="xdouble" value="14.789139077110635"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="13.862068965517238"/>
-<entry key="sd" type="xdouble" value="10.35845727750512"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="14.02602230483272"/>
+<entry key="sd" type="xdouble" value="9.87026040116666"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="27.279999999999998"/>
-<entry key="sd" type="xdouble" value="17.634057956125698"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="33.61538461538461"/>
+<entry key="sd" type="xdouble" value="22.02557953485342"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="13.645454545454555"/>
-<entry key="sd" type="xdouble" value="9.288954862676794"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="13.036697247706423"/>
+<entry key="sd" type="xdouble" value="9.877056787966305"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="530"/>
-<entry key="mean" type="xdouble" value="16.226415094339615"/>
-<entry key="sd" type="xdouble" value="10.795646937318525"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="16.263254113345518"/>
+<entry key="sd" type="xdouble" value="12.247306006206712"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="14.13521126760563"/>
-<entry key="sd" type="xdouble" value="10.01263465375009"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="14.371191135734078"/>
+<entry key="sd" type="xdouble" value="10.00808844937873"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="12.869565217391308"/>
-<entry key="sd" type="xdouble" value="8.322998931443799"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="12.65384615384615"/>
+<entry key="sd" type="xdouble" value="9.60356854262001"/>
 </config>
 </config>
 </config>
@@ -165,58 +165,58 @@
 <entry key="attributeName" type="xstring" value="TotalHours"/>
 <entry key="type" type="xstring" value="NumericalModel"/>
 <entry key="skipMissingVals" type="xboolean" value="true"/>
-<entry key="numberOfMissingValues" type="xint" value="1"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
 <entry key="invalidCause" type="xstring" isnull="true" value=""/>
 <config key="data">
 <entry key="noOfClasses" type="xlong" value="7"/>
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="952.8692660550461"/>
-<entry key="sd" type="xdouble" value="572.9675795690027"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="996.3007334963322"/>
+<entry key="sd" type="xdouble" value="1332.150149056709"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="578.1609195402297"/>
-<entry key="sd" type="xdouble" value="860.4815913573028"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="605.7565055762083"/>
+<entry key="sd" type="xdouble" value="865.4413897388171"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="1573.44"/>
-<entry key="sd" type="xdouble" value="1887.313127173125"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="1762.9230769230771"/>
+<entry key="sd" type="xdouble" value="1855.5787651959577"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="350.90909090909105"/>
-<entry key="sd" type="xdouble" value="304.2978607299629"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="342.5596330275228"/>
+<entry key="sd" type="xdouble" value="290.38855048434544"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="530"/>
-<entry key="mean" type="xdouble" value="2638.492452830189"/>
-<entry key="sd" type="xdouble" value="43408.41375958999"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="2579.0767824497248"/>
+<entry key="sd" type="xdouble" value="42729.46029493771"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="474.72676056338"/>
-<entry key="sd" type="xdouble" value="450.5674780184994"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="532.2216066481993"/>
+<entry key="sd" type="xdouble" value="742.5093158253379"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="257.56521739130426"/>
-<entry key="sd" type="xdouble" value="273.7342843501347"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="252.3173076923076"/>
+<entry key="sd" type="xdouble" value="276.7845632523913"/>
 </config>
 </config>
 </config>
@@ -231,51 +231,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="155.4395119266056"/>
-<entry key="sd" type="xdouble" value="46.8313437053958"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="157.35520709046466"/>
+<entry key="sd" type="xdouble" value="46.68225257107545"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="106.26274827586205"/>
-<entry key="sd" type="xdouble" value="32.21771338706371"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="106.60567026022308"/>
+<entry key="sd" type="xdouble" value="33.554136586545845"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="185.26663200000002"/>
-<entry key="sd" type="xdouble" value="37.643673659535416"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="192.5196692307692"/>
+<entry key="sd" type="xdouble" value="44.416529877708996"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="75.33101727272732"/>
-<entry key="sd" type="xdouble" value="23.918495493961935"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="73.86894192660554"/>
+<entry key="sd" type="xdouble" value="22.409430600926754"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="131.53756610169492"/>
-<entry key="sd" type="xdouble" value="41.4783079879417"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="130.845465082267"/>
+<entry key="sd" type="xdouble" value="43.41581147465844"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="88.58535549295767"/>
-<entry key="sd" type="xdouble" value="29.22027185211232"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="89.6393584487535"/>
+<entry key="sd" type="xdouble" value="28.932293477553213"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="57.44856939130435"/>
-<entry key="sd" type="xdouble" value="22.85817291162582"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="59.861661346153866"/>
+<entry key="sd" type="xdouble" value="22.731470514179833"/>
 </config>
 </config>
 </config>
@@ -290,51 +290,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="0.007161028032110087"/>
-<entry key="sd" type="xdouble" value="0.005993478837593751"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="0.0070900273276283555"/>
+<entry key="sd" type="xdouble" value="0.005879864345274184"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="0.0031172342950191584"/>
-<entry key="sd" type="xdouble" value="0.003038927794979387"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="0.0031976055669145024"/>
+<entry key="sd" type="xdouble" value="0.003285123296857808"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="0.008974013879999998"/>
-<entry key="sd" type="xdouble" value="0.004134137885109969"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="0.009224440307692306"/>
+<entry key="sd" type="xdouble" value="0.005416277043370472"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="0.0015417498727272722"/>
-<entry key="sd" type="xdouble" value="0.001867524183019713"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="0.0015250934128440365"/>
+<entry key="sd" type="xdouble" value="0.0015326986097853967"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="0.0049241024708097944"/>
-<entry key="sd" type="xdouble" value="0.0049649573031717974"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="0.005009380592321755"/>
+<entry key="sd" type="xdouble" value="0.005148492078188707"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="0.00210940301971831"/>
-<entry key="sd" type="xdouble" value="0.002387281038613682"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="0.002125110354570637"/>
+<entry key="sd" type="xdouble" value="0.002119299373894572"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="0.0010476658782608693"/>
-<entry key="sd" type="xdouble" value="0.0016577684276820367"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="0.0010761486634615388"/>
+<entry key="sd" type="xdouble" value="0.001213334399884756"/>
 </config>
 </config>
 </config>
@@ -349,51 +349,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="5.045648555045873E-4"/>
-<entry key="sd" type="xdouble" value="2.0548780601083017E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="5.135725281173595E-4"/>
+<entry key="sd" type="xdouble" value="2.0817483749424357E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="3.4836830459770074E-4"/>
-<entry key="sd" type="xdouble" value="1.8360080662433557E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="3.3914250185873595E-4"/>
+<entry key="sd" type="xdouble" value="1.8534562812411702E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="6.918451600000001E-4"/>
-<entry key="sd" type="xdouble" value="2.3345803863465486E-4"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="7.679604230769233E-4"/>
+<entry key="sd" type="xdouble" value="2.847880244745095E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="2.278309681818183E-4"/>
-<entry key="sd" type="xdouble" value="1.5109922296553655E-4"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="2.2525878899082573E-4"/>
+<entry key="sd" type="xdouble" value="1.4628674400223536E-4"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="4.1030345574387926E-4"/>
-<entry key="sd" type="xdouble" value="1.830164848225928E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="4.090699451553932E-4"/>
+<entry key="sd" type="xdouble" value="1.8916930338144493E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="2.768393042253522E-4"/>
-<entry key="sd" type="xdouble" value="1.5765772110162585E-4"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="2.793048947368419E-4"/>
+<entry key="sd" type="xdouble" value="1.598993258450976E-4"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="1.774461826086956E-4"/>
-<entry key="sd" type="xdouble" value="1.3650537690416107E-4"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="1.9967940384615386E-4"/>
+<entry key="sd" type="xdouble" value="1.3351280903224226E-4"/>
 </config>
 </config>
 </config>
@@ -408,51 +408,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="7.462272706422018E-5"/>
-<entry key="sd" type="xdouble" value="3.599803603316263E-5"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="7.507480929095357E-5"/>
+<entry key="sd" type="xdouble" value="3.691141854358642E-5"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="5.144149233716471E-5"/>
-<entry key="sd" type="xdouble" value="3.262443651904446E-5"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="5.301996840148699E-5"/>
+<entry key="sd" type="xdouble" value="3.502918236354639E-5"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="8.168731999999997E-5"/>
-<entry key="sd" type="xdouble" value="3.518792091722196E-5"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="7.855446153846154E-5"/>
+<entry key="sd" type="xdouble" value="3.534383394849039E-5"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="4.5180413636363616E-5"/>
-<entry key="sd" type="xdouble" value="3.223923210667593E-5"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="4.4540683486238544E-5"/>
+<entry key="sd" type="xdouble" value="3.220613980943234E-5"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="6.401525612052723E-5"/>
-<entry key="sd" type="xdouble" value="3.872031324972616E-5"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="6.184624497257772E-5"/>
+<entry key="sd" type="xdouble" value="3.8883077822833295E-5"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="4.770145352112677E-5"/>
-<entry key="sd" type="xdouble" value="3.765162232929946E-5"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="4.8913385041551246E-5"/>
+<entry key="sd" type="xdouble" value="3.646751557366118E-5"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="4.454297391304349E-5"/>
-<entry key="sd" type="xdouble" value="3.771516537672943E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="4.5352855769230777E-5"/>
+<entry key="sd" type="xdouble" value="3.631781474046428E-5"/>
 </config>
 </config>
 </config>
@@ -467,51 +467,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="1.5615095412844035E-4"/>
-<entry key="sd" type="xdouble" value="2.0308629734887596E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="1.5134952811735936E-4"/>
+<entry key="sd" type="xdouble" value="2.0364492646003136E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="7.679311111111111E-5"/>
-<entry key="sd" type="xdouble" value="1.128575994483102E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="7.490171933085509E-5"/>
+<entry key="sd" type="xdouble" value="1.0386038407472855E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="3.6912256E-4"/>
-<entry key="sd" type="xdouble" value="3.4939781557000323E-4"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="3.6455730769230767E-4"/>
+<entry key="sd" type="xdouble" value="3.3106458527021814E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="4.620796818181819E-5"/>
-<entry key="sd" type="xdouble" value="9.405604241372921E-5"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="4.2003252293577974E-5"/>
+<entry key="sd" type="xdouble" value="7.706333531556426E-5"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="1.1491705461393596E-4"/>
-<entry key="sd" type="xdouble" value="2.031450755579197E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="1.1442116819012802E-4"/>
+<entry key="sd" type="xdouble" value="2.056025045554313E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="5.4754383098591585E-5"/>
-<entry key="sd" type="xdouble" value="8.500312016901875E-5"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="5.247490858725765E-5"/>
+<entry key="sd" type="xdouble" value="7.994279067613817E-5"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="3.034961739130435E-5"/>
-<entry key="sd" type="xdouble" value="5.30096984043722E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="2.5202413461538455E-5"/>
+<entry key="sd" type="xdouble" value="4.757096682711237E-5"/>
 </config>
 </config>
 </config>
@@ -526,51 +526,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="4.3929381422018346E-4"/>
-<entry key="sd" type="xdouble" value="3.812356376138954E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="4.623458215158924E-4"/>
+<entry key="sd" type="xdouble" value="3.962150746906628E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="3.777546417624521E-4"/>
-<entry key="sd" type="xdouble" value="3.5290660774347897E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="3.7906846654275076E-4"/>
+<entry key="sd" type="xdouble" value="3.5828621307295135E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="5.261909599999999E-4"/>
-<entry key="sd" type="xdouble" value="3.343393697233995E-4"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="6.147314230769231E-4"/>
+<entry key="sd" type="xdouble" value="4.2181871637850997E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="2.8782898181818205E-4"/>
-<entry key="sd" type="xdouble" value="2.841232458744087E-4"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="2.6040506880733934E-4"/>
+<entry key="sd" type="xdouble" value="2.728092610006379E-4"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="4.2939551789077237E-4"/>
-<entry key="sd" type="xdouble" value="3.5575682717625304E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="4.264878756855577E-4"/>
+<entry key="sd" type="xdouble" value="3.568929636350022E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="3.407053352112675E-4"/>
-<entry key="sd" type="xdouble" value="3.111871575247819E-4"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="3.2493116343490323E-4"/>
+<entry key="sd" type="xdouble" value="3.080079999316096E-4"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="2.1615877391304353E-4"/>
-<entry key="sd" type="xdouble" value="2.0656405983502402E-4"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="2.210004711538462E-4"/>
+<entry key="sd" type="xdouble" value="2.2658465500909676E-4"/>
 </config>
 </config>
 </config>
@@ -585,51 +585,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="0.0042246503027522945"/>
-<entry key="sd" type="xdouble" value="9.521369399478209E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="0.004256179792176045"/>
+<entry key="sd" type="xdouble" value="9.784694604031872E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="0.003344391827586203"/>
-<entry key="sd" type="xdouble" value="7.130102279045566E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="0.003295858968401491"/>
+<entry key="sd" type="xdouble" value="7.094783070087518E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="0.00504749352"/>
-<entry key="sd" type="xdouble" value="0.001075263000039452"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="0.005251765615384616"/>
+<entry key="sd" type="xdouble" value="0.001005166583731834"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="0.00270530324090909"/>
-<entry key="sd" type="xdouble" value="6.593383089618469E-4"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="0.00263033083027523"/>
+<entry key="sd" type="xdouble" value="6.775708860114724E-4"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="0.003738916282485873"/>
-<entry key="sd" type="xdouble" value="7.670149830871055E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="0.003736589409506399"/>
+<entry key="sd" type="xdouble" value="8.01350090428428E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="0.0029618595211267622"/>
-<entry key="sd" type="xdouble" value="6.555690118715403E-4"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="0.0029813065263157874"/>
+<entry key="sd" type="xdouble" value="6.710464223906074E-4"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="0.002299617217391305"/>
-<entry key="sd" type="xdouble" value="6.603795016179897E-4"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="0.0023382106923076924"/>
+<entry key="sd" type="xdouble" value="5.954112351015124E-4"/>
 </config>
 </config>
 </config>
@@ -644,51 +644,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="30.364617201834868"/>
-<entry key="sd" type="xdouble" value="9.220582919082744"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="30.0844630806846"/>
+<entry key="sd" type="xdouble" value="9.076911307158447"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="40.70232988505746"/>
-<entry key="sd" type="xdouble" value="12.475016881383914"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="41.459283271375476"/>
+<entry key="sd" type="xdouble" value="13.497842379500595"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="23.013112"/>
-<entry key="sd" type="xdouble" value="6.69575950330506"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="20.895742307692302"/>
+<entry key="sd" type="xdouble" value="4.717904335204187"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="53.509242272727285"/>
-<entry key="sd" type="xdouble" value="20.420964709466656"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="55.19122431192662"/>
+<entry key="sd" type="xdouble" value="21.20237029987234"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="34.67571977401134"/>
-<entry key="sd" type="xdouble" value="10.18801041966546"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="34.73812157221213"/>
+<entry key="sd" type="xdouble" value="10.451367108102415"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="46.282423098591536"/>
-<entry key="sd" type="xdouble" value="14.290199880597573"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="46.36888559556785"/>
+<entry key="sd" type="xdouble" value="14.26777089232593"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="64.8585504347826"/>
-<entry key="sd" type="xdouble" value="30.639696973226062"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="64.6878153846154"/>
+<entry key="sd" type="xdouble" value="30.101925194593882"/>
 </config>
 </config>
 </config>
@@ -703,51 +703,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="49.10942912844038"/>
-<entry key="sd" type="xdouble" value="10.345611714083166"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="48.62348973105134"/>
+<entry key="sd" type="xdouble" value="10.282215539916782"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="64.32261168582377"/>
-<entry key="sd" type="xdouble" value="12.952655224309954"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="64.79106840148698"/>
+<entry key="sd" type="xdouble" value="13.327391500984984"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="40.896732"/>
-<entry key="sd" type="xdouble" value="6.495041200775147"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="39.311003846153845"/>
+<entry key="sd" type="xdouble" value="6.504973663681095"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="79.75171954545449"/>
-<entry key="sd" type="xdouble" value="17.86739387686368"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="81.73615045871564"/>
+<entry key="sd" type="xdouble" value="18.03784062345762"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="56.34539604519769"/>
-<entry key="sd" type="xdouble" value="11.244372297831015"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="56.53171846435097"/>
+<entry key="sd" type="xdouble" value="11.394284160839378"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="73.88686788732392"/>
-<entry key="sd" type="xdouble" value="16.081537774999624"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="73.87698531855952"/>
+<entry key="sd" type="xdouble" value="15.882902644055148"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="98.31029999999996"/>
-<entry key="sd" type="xdouble" value="24.897042048118678"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="96.28462499999998"/>
+<entry key="sd" type="xdouble" value="23.234407606408393"/>
 </config>
 </config>
 </config>
@@ -762,51 +762,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="5.41535756880734"/>
-<entry key="sd" type="xdouble" value="1.4086729528380684"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="5.4518288508557395"/>
+<entry key="sd" type="xdouble" value="1.2977604773295142"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="5.229968007662829"/>
-<entry key="sd" type="xdouble" value="1.3323034809410708"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="5.299001301115244"/>
+<entry key="sd" type="xdouble" value="1.4971327102195973"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="5.227232000000001"/>
-<entry key="sd" type="xdouble" value="1.1773976515038012"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="5.24568076923077"/>
+<entry key="sd" type="xdouble" value="1.0647163896622351"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="4.915934999999999"/>
-<entry key="sd" type="xdouble" value="1.4411404726218633"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="5.041971100917431"/>
+<entry key="sd" type="xdouble" value="1.8336494580391984"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="5.4595945386063995"/>
-<entry key="sd" type="xdouble" value="1.3927294588455275"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="5.432059414990856"/>
+<entry key="sd" type="xdouble" value="1.434554155177624"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="5.138914366197186"/>
-<entry key="sd" type="xdouble" value="1.5148623622256725"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="5.147398614958447"/>
+<entry key="sd" type="xdouble" value="1.5377742750746646"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="4.514699130434783"/>
-<entry key="sd" type="xdouble" value="1.6757289831590425"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="4.681558653846155"/>
+<entry key="sd" type="xdouble" value="1.9206884449198565"/>
 </config>
 </config>
 </config>
@@ -821,51 +821,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="3.10010332568807E-4"/>
-<entry key="sd" type="xdouble" value="9.246526757589708E-5"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="3.1299173594132E-4"/>
+<entry key="sd" type="xdouble" value="9.445171314210836E-5"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="2.7708128544061275E-4"/>
-<entry key="sd" type="xdouble" value="7.859018172259765E-5"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="2.795668271375463E-4"/>
+<entry key="sd" type="xdouble" value="8.179206741470673E-5"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="3.158930400000001E-4"/>
-<entry key="sd" type="xdouble" value="9.645606443284598E-5"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="3.2085619230769235E-4"/>
+<entry key="sd" type="xdouble" value="9.37390236228303E-5"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="2.525156454545453E-4"/>
-<entry key="sd" type="xdouble" value="7.954091802504178E-5"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="2.6025028440366973E-4"/>
+<entry key="sd" type="xdouble" value="9.166051017700878E-5"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="2.9702562711864415E-4"/>
-<entry key="sd" type="xdouble" value="8.239526370719185E-5"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="2.9738002925045685E-4"/>
+<entry key="sd" type="xdouble" value="8.160190618311006E-5"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="2.609238450704224E-4"/>
-<entry key="sd" type="xdouble" value="8.02313660694406E-5"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="2.587692216066482E-4"/>
+<entry key="sd" type="xdouble" value="7.924688356494727E-5"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="2.483460869565217E-4"/>
-<entry key="sd" type="xdouble" value="8.790878993419333E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="2.5539254807692294E-4"/>
+<entry key="sd" type="xdouble" value="8.210663809095832E-5"/>
 </config>
 </config>
 </config>
@@ -880,51 +880,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="0.0012180513532110099"/>
-<entry key="sd" type="xdouble" value="5.589091720746752E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="0.0012444297310513451"/>
+<entry key="sd" type="xdouble" value="5.995717465066177E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="0.001017886149425289"/>
-<entry key="sd" type="xdouble" value="4.6425550385309304E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="0.0010180385315985117"/>
+<entry key="sd" type="xdouble" value="4.8772152524262304E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="0.00123086"/>
-<entry key="sd" type="xdouble" value="7.045537070550406E-4"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="0.001251831923076923"/>
+<entry key="sd" type="xdouble" value="7.390118813389632E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="7.760494090909086E-4"/>
-<entry key="sd" type="xdouble" value="3.541979717372112E-4"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="8.21750458715597E-4"/>
+<entry key="sd" type="xdouble" value="4.0607609788728585E-4"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="0.0011915113182674214"/>
-<entry key="sd" type="xdouble" value="5.799181364720389E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="0.0011484541133455217"/>
+<entry key="sd" type="xdouble" value="5.21650620360084E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="9.110555774647888E-4"/>
-<entry key="sd" type="xdouble" value="4.24813915913915E-4"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="9.17079307479225E-4"/>
+<entry key="sd" type="xdouble" value="4.354871715259656E-4"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="6.155872173913043E-4"/>
-<entry key="sd" type="xdouble" value="3.216419394174044E-4"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="6.350453846153845E-4"/>
+<entry key="sd" type="xdouble" value="3.229315792178915E-4"/>
 </config>
 </config>
 </config>
@@ -939,51 +939,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="8.826335091743121E-5"/>
-<entry key="sd" type="xdouble" value="2.4577633525678402E-5"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="8.90387212713937E-5"/>
+<entry key="sd" type="xdouble" value="2.4985316734614006E-5"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="8.397738697318009E-5"/>
-<entry key="sd" type="xdouble" value="2.325045792238175E-5"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="8.47196152416358E-5"/>
+<entry key="sd" type="xdouble" value="2.515820385565605E-5"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="7.923880000000002E-5"/>
-<entry key="sd" type="xdouble" value="2.8142495210387212E-5"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="8.14968076923077E-5"/>
+<entry key="sd" type="xdouble" value="2.837485629217421E-5"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="7.875428181818187E-5"/>
-<entry key="sd" type="xdouble" value="2.5526412196188355E-5"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="7.996697706422021E-5"/>
+<entry key="sd" type="xdouble" value="2.639040895732682E-5"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="8.770731261770248E-5"/>
-<entry key="sd" type="xdouble" value="2.480436584745796E-5"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="8.65045210237659E-5"/>
+<entry key="sd" type="xdouble" value="2.3525163813488744E-5"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="8.153645633802809E-5"/>
-<entry key="sd" type="xdouble" value="2.4513514809520707E-5"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="8.196778947368423E-5"/>
+<entry key="sd" type="xdouble" value="2.4035450751846614E-5"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="7.96376869565217E-5"/>
-<entry key="sd" type="xdouble" value="2.7071028134697163E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="8.031672115384617E-5"/>
+<entry key="sd" type="xdouble" value="2.3862984137991494E-5"/>
 </config>
 </config>
 </config>
@@ -998,51 +998,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="8.195365596330271E-5"/>
-<entry key="sd" type="xdouble" value="1.277498999223342E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="7.678411735941322E-5"/>
+<entry key="sd" type="xdouble" value="1.2282686904346504E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="6.59093908045977E-5"/>
-<entry key="sd" type="xdouble" value="1.1811011704553976E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="6.555564126394047E-5"/>
+<entry key="sd" type="xdouble" value="1.164501837560868E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="5.281236E-5"/>
-<entry key="sd" type="xdouble" value="9.8965383492108E-5"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="7.746538461538463E-5"/>
+<entry key="sd" type="xdouble" value="1.2816114489815606E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="2.9082313636363632E-5"/>
-<entry key="sd" type="xdouble" value="8.2400140852258E-5"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="2.434350000000001E-5"/>
+<entry key="sd" type="xdouble" value="7.648613774896374E-5"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="7.658601883239172E-5"/>
-<entry key="sd" type="xdouble" value="1.1747071873305292E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="7.80175813528337E-5"/>
+<entry key="sd" type="xdouble" value="1.2003615593926707E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="4.42374957746479E-5"/>
-<entry key="sd" type="xdouble" value="9.63391396754363E-5"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="4.351572853185597E-5"/>
+<entry key="sd" type="xdouble" value="9.396861912780888E-5"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="1.105357391304348E-5"/>
-<entry key="sd" type="xdouble" value="3.957071479610588E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="1.4220048076923083E-5"/>
+<entry key="sd" type="xdouble" value="4.2148438290380996E-5"/>
 </config>
 </config>
 </config>
@@ -1057,51 +1057,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="1.8852321100917428E-4"/>
-<entry key="sd" type="xdouble" value="3.0458914557042406E-4"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="1.823046699266503E-4"/>
+<entry key="sd" type="xdouble" value="3.1148631379928363E-4"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="1.423689080459771E-4"/>
-<entry key="sd" type="xdouble" value="2.5116601926141775E-4"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="1.4118657992565048E-4"/>
+<entry key="sd" type="xdouble" value="2.453924196950158E-4"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="1.79452E-4"/>
-<entry key="sd" type="xdouble" value="4.663159212558227E-4"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="3.3147E-4"/>
+<entry key="sd" type="xdouble" value="6.702182413333734E-4"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="8.58156363636363E-5"/>
-<entry key="sd" type="xdouble" value="1.9852440513177847E-4"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="8.243701834862382E-5"/>
+<entry key="sd" type="xdouble" value="2.1058330853371136E-4"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="1.7302566854990594E-4"/>
-<entry key="sd" type="xdouble" value="2.5485896753849583E-4"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="1.8927435100548446E-4"/>
+<entry key="sd" type="xdouble" value="2.992018656335827E-4"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="1.1709163380281693E-4"/>
-<entry key="sd" type="xdouble" value="2.6224214274772156E-4"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="1.0784362880886428E-4"/>
+<entry key="sd" type="xdouble" value="2.591484430621133E-4"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="3.734878260869564E-5"/>
-<entry key="sd" type="xdouble" value="8.964377995416008E-5"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="4.071307692307693E-5"/>
+<entry key="sd" type="xdouble" value="8.90537235483125E-5"/>
 </config>
 </config>
 </config>
@@ -1116,51 +1116,51 @@
 <config key="classValueData_0">
 <entry key="classValue" type="xstring" value="Master(6)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="436"/>
-<entry key="mean" type="xdouble" value="83475.30275229368"/>
-<entry key="sd" type="xdouble" value="32771.18962607445"/>
+<entry key="noOfRows" type="xlong" value="409"/>
+<entry key="mean" type="xdouble" value="82148.29339853303"/>
+<entry key="sd" type="xdouble" value="33225.54932094293"/>
 </config>
 <config key="classValueData_1">
 <entry key="classValue" type="xstring" value="Platinum(4)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="522"/>
-<entry key="mean" type="xdouble" value="85340.26819923373"/>
-<entry key="sd" type="xdouble" value="35335.62296346054"/>
+<entry key="noOfRows" type="xlong" value="538"/>
+<entry key="mean" type="xdouble" value="84397.18959107817"/>
+<entry key="sd" type="xdouble" value="35966.886975403075"/>
 </config>
 <config key="classValueData_2">
 <entry key="classValue" type="xstring" value="Grandmaster(7)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="25"/>
-<entry key="mean" type="xdouble" value="96547.04000000002"/>
-<entry key="sd" type="xdouble" value="36161.02132185981"/>
+<entry key="noOfRows" type="xlong" value="26"/>
+<entry key="mean" type="xdouble" value="95448.92307692308"/>
+<entry key="sd" type="xdouble" value="39518.87598899855"/>
 </config>
 <config key="classValueData_3">
 <entry key="classValue" type="xstring" value="Silver(2)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="220"/>
-<entry key="mean" type="xdouble" value="86513.89090909089"/>
-<entry key="sd" type="xdouble" value="37362.402937044266"/>
+<entry key="noOfRows" type="xlong" value="218"/>
+<entry key="mean" type="xdouble" value="82889.30275229359"/>
+<entry key="sd" type="xdouble" value="35828.56389494669"/>
 </config>
 <config key="classValueData_4">
 <entry key="classValue" type="xstring" value="Diamond(5)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="531"/>
-<entry key="mean" type="xdouble" value="82415.68361581913"/>
-<entry key="sd" type="xdouble" value="31107.900922338857"/>
+<entry key="noOfRows" type="xlong" value="547"/>
+<entry key="mean" type="xdouble" value="83005.19195612428"/>
+<entry key="sd" type="xdouble" value="31080.38798293941"/>
 </config>
 <config key="classValueData_5">
 <entry key="classValue" type="xstring" value="Gold(3)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="355"/>
-<entry key="mean" type="xdouble" value="84338.16338028171"/>
-<entry key="sd" type="xdouble" value="32601.20705966641"/>
+<entry key="noOfRows" type="xlong" value="361"/>
+<entry key="mean" type="xdouble" value="83930.42659279777"/>
+<entry key="sd" type="xdouble" value="31455.701985239182"/>
 </config>
 <config key="classValueData_6">
 <entry key="classValue" type="xstring" value="Bronze(1)"/>
 <entry key="MissingValCounter" type="xlong" value="0"/>
-<entry key="noOfRows" type="xlong" value="115"/>
-<entry key="mean" type="xdouble" value="79111.37391304347"/>
-<entry key="sd" type="xdouble" value="32741.659791775463"/>
+<entry key="noOfRows" type="xlong" value="104"/>
+<entry key="mean" type="xdouble" value="77752.38461538464"/>
+<entry key="sd" type="xdouble" value="30043.887864032462"/>
 </config>
 </config>
 </config>
